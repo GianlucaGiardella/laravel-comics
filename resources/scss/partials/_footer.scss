@@ -28,17 +28,15 @@
         justify-content: center;
         align-items: center;
         gap: 0.3rem;
-    }
 
-    section {
-        img {
+        .top-footer-img {
             display: block;
             height: 40px;
             aspect-ratio: 1 / 1;
             object-fit: contain;
         }
 
-        h2 {
+        .top-footer-title {
             font-weight: 400;
             font-size: 0.7rem;
             text-transform: uppercase;
@@ -60,10 +58,8 @@
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(7, 35px);
         column-gap: 0.5rem;
-    }
 
-    .lists {
-        h2 {
+        .middle-footer-title {
             color: white;
             text-transform: uppercase;
             font-size: 1rem;
@@ -127,13 +123,13 @@
         align-items: center;
     }
 
-    h2 {
+    .bottom-footer-title {
         font-size: 1rem;
         text-transform: uppercase;
         color: #0c7af3;
     }
 
-    li > img {
+    .bottom-footer-img {
         display: block;
         width: 25px;
         aspect-ratio: 1 / 1;

@@ -1,7 +1,7 @@
 <header>
 
       <div class="logo">
-        <img src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="DC logo" />
+        <img class="logo-img" src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="DC logo" />
       </div>
 
       <ul class="nav">
