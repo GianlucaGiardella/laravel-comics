@@ -17,4 +17,6 @@
         <li>shop</li>
       </ul>
 
+        <input class="search" type="text" placeholder="Search &#x1F50D">
+
   </header>
