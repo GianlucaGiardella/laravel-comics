@@ -80,6 +80,11 @@
 
           </div>
 
+          <div class="copyright">
+            <p class="rights">All Site Content TM and © 2020 DC Entertainment, unless otherwise <span>noted here</span>. All rights reserved.</p>
+            <p class="cookies">Cookies Settings</p>
+          </div>
+
           <img src="{{ Vite::asset('resources/img/dc-logo-bg.png') }}" alt="dc logo bg" />
 
         </div>
